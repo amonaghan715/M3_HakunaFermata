@@ -3,7 +3,9 @@
 Private github repo link: https://github.com/amonaghan715/M3_HakunaFermata.git
 
 Author: Anna Monaghan
+
 Course: Computational Creativity CSCI 3725
+
 Date: 12/11/25
 
 # Song Narrative

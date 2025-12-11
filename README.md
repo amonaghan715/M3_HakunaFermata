@@ -1,6 +1,6 @@
 # M3: Hakuna Fermata
 
-Private github repo link: 
+Private github repo link: https://github.com/amonaghan715/M3_HakunaFermata.git
 
 Author: Anna Monaghan
 Course: Computational Creativity CSCI 3725

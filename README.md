@@ -26,3 +26,5 @@ Chat GPT 5.1 was used in the creation of this project as a resource on what scal
 Prompts used:
 - What musical scale would achieve a bright, magical tone?
 - What is brown noise compared to white noise?
+
+Adobe Illustrator was used to generatively expand some images used in the video in order to better fit them to the frame.
